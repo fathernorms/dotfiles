@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = normanrobertf@gmail.com
+	name = Norman Robert
